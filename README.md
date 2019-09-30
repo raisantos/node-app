@@ -1,3 +1,3 @@
 # Exemplos Node
 
-Exemplos de projeto Node.js utilizando Express e Sequelize
+Exemplos de projetos Node.js utilizando módulos como Express, Sequelize, Handlebars, Body Parser e Mongoose.
